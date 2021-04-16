@@ -1,0 +1,1 @@
+create table equipment(grid int(8),    level int(8),    name varchar (63),    madeUp varchar (63),    recommend varchar (255), material varchar (7),    ATK int(10),    MATK int(10),    DEF int(10),    MDEF int(10),    SPD int(10),    MAXHP int(10),    MAXSP int(10),    ANTISEAL int(10))
